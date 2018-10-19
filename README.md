@@ -1,7 +1,7 @@
 # freecodecamp-progress
 A detailed list of my progress and knowledge proof in freecodecamp.
 
-## Progress
+## Basic HTML and HTML5
 - [x] Say Hello to HTML Elements
 - [x] Headline with the h2 Element
 - [x] Inform with the Paragraph Element
