@@ -31,32 +31,32 @@ A detailed list of my progress and knowledge proof in freecodecamp.
 - [x] Define the Head and Body of an HTML Document
 
 ## Basic CSS
-- [ ] Change the Color of Text
-- [ ] Use CSS Selectors to Style Elements
-- [ ] Use a CSS Class to Style an Element
-- [ ] Style Multiple Elements with a CSS Class
-- [ ] Change the Font Size of an Element
-- [ ] Set the Font Family of an Element
-- [ ] Import a Google Font
-- [ ] Specify How Fonts Should Degrade
-- [ ] Size Your Images
-- [ ] Add Borders Around Your Elements
-- [ ] Add Rounded Corners with border-radius
-- [ ] Make Circular Images with a border-radius
-- [ ] Give a Background Color to a div Element
-- [ ] Set the id of an Element
-- [ ] Use an id Attribute to Style an Element
-- [ ] Adjust the Padding of an Element
-- [ ] Adjust the Margin of an Element
-- [ ] Add a Negative Margin to an Element
-- [ ] Add Different Padding to Each Side of an Element
-- [ ] Add Different Margins to Each Side of an Element
-- [ ] Use Clockwise Notation to Specify the Padding of an Element
-- [ ] Use Clockwise Notation to Specify the Margin of an Element
-- [ ] Use Attribute Selectors to Style Elements
-- [ ] Understand Absolute versus Relative Units
-- [ ] Style the HTML Body Element
-- [ ] Inherit Styles from the Body Element
+- [x] Change the Color of Text
+- [x] Use CSS Selectors to Style Elements
+- [x] Use a CSS Class to Style an Element
+- [x] Style Multiple Elements with a CSS Class
+- [x] Change the Font Size of an Element
+- [x] Set the Font Family of an Element
+- [x] Import a Google Font
+- [x] Specify How Fonts Should Degrade
+- [x] Size Your Images
+- [x] Add Borders Around Your Elements
+- [x] Add Rounded Corners with border-radius
+- [x] Make Circular Images with a border-radius
+- [x] Give a Background Color to a div Element
+- [x] Set the id of an Element
+- [x] Use an id Attribute to Style an Element
+- [x] Adjust the Padding of an Element
+- [x] Adjust the Margin of an Element
+- [x] Add a Negative Margin to an Element
+- [x] Add Different Padding to Each Side of an Element
+- [x] Add Different Margins to Each Side of an Element
+- [x] Use Clockwise Notation to Specify the Padding of an Element
+- [x] Use Clockwise Notation to Specify the Margin of an Element
+- [x] Use Attribute Selectors to Style Elements
+- [x] Understand Absolute versus Relative Units
+- [x] Style the HTML Body Element
+- [x] Inherit Styles from the Body Element
 - [ ] Prioritize One Style Over Another
 - [ ] Override Styles in Subsequent CSS
 - [ ] Override Class Declarations by Styling ID Attributes
