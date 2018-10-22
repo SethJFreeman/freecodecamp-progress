@@ -57,21 +57,21 @@ A detailed list of my progress and knowledge proof in freecodecamp.
 - [x] Understand Absolute versus Relative Units
 - [x] Style the HTML Body Element
 - [x] Inherit Styles from the Body Element
-- [ ] Prioritize One Style Over Another
-- [ ] Override Styles in Subsequent CSS
-- [ ] Override Class Declarations by Styling ID Attributes
-- [ ] Override Class Declarations with Inline Styles
-- [ ] Override All Other Styles by using Important
-- [ ] Use Hex Code for Specific Colors
-- [ ] Use Hex Code to Mix Colors
-- [ ] Use Abbreviated Hex Code
-- [ ] Use RGB values to Color Elements
-- [ ] Use RGB to Mix Colors
-- [ ] Use CSS Variables to change several elements at once
-- [ ] Create a custom CSS Variable
-- [ ] Use a custom CSS Variable- [ ] 
-- [ ] Attach a Fallback value to a CSS Variable
-- [ ] Improve Compatibility with Browser Fallbacks
-- [ ] Cascading CSS variables
-- [ ] Change a variable for a specific area
-- [ ] Use a media query to change a variable
+- [x] Prioritize One Style Over Another
+- [x] Override Styles in Subsequent CSS
+- [x] Override Class Declarations by Styling ID Attributes
+- [x] Override Class Declarations with Inline Styles
+- [x] Override All Other Styles by using Important
+- [x] Use Hex Code for Specific Colors
+- [x] Use Hex Code to Mix Colors
+- [x] Use Abbreviated Hex Code
+- [x] Use RGB values to Color Elements
+- [x] Use RGB to Mix Colors
+- [x] Use CSS Variables to change several elements at once
+- [x] Create a custom CSS Variable
+- [x] Use a custom CSS Variable- [ ] 
+- [x] Attach a Fallback value to a CSS Variable
+- [x] Improve Compatibility with Browser Fallbacks
+- [x] Cascading CSS variables
+- [x] Change a variable for a specific area
+- [x] Use a media query to change a variable
