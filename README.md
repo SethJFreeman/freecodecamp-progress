@@ -78,35 +78,35 @@ A detailed list of my progress and knowledge proof in freecodecamp.
 
 ## Applied Visual Design
 
-- [ ] Create Visual Balance Using the text-align Property
-- [ ] Adjust the Width of an Element Using the width Property
-- [ ] Adjust the Height of an Element Using the height Property
-- [ ] Use the strong Tag to Make Text Bold
-- [ ] Use the u Tag to Underline Text
-- [ ] Use the em Tag to Italicize Text
-- [ ] Use the s Tag to Strikethrough Text
-- [ ] Create a Horizontal Line Using the hr Element
-- [ ] Adjust the background-color Property of Text
-- [ ] Adjust the Size of a Header Versus a Paragraph Tag
-- [ ] Add a box-shadow to a Card-like Element
-- [ ] Decrease the Opacity of an Element
-- [ ] Use the text-transform Property to Make Text Uppercase
-- [ ] Set the font-size for Multiple Heading Elements
-- [ ] Set the font-weight for Multiple Heading Elements
-- [ ] Set the font-size of Paragraph Text
-- [ ] Set the line-height of Paragraphs
-- [ ] Adjust the Hover State of an Anchor Tag
-- [ ] Change an Element's Relative Position
-- [ ] Move a Relatively Positioned Element with CSS Offsets
-- [ ] Lock an Element to its Parent with Absolute Positioning
-- [ ] Lock an Element to the Browser Window with Fixed Positioning
-- [ ] Push Elements Left or Right with the float Property
-- [ ] Change the Position of Overlapping Elements with the z-index Property
-- [ ] Center an Element Horizontally Using the margin Property
-- [ ] Learn about Complementary Colors
-- [ ] Learn about Tertiary Colors
-- [ ] Adjust the Color of Various Elements to Complementary Colors
-- [ ] Adjust the Hue of a Color
+- [x] Create Visual Balance Using the text-align Property
+- [x] Adjust the Width of an Element Using the width Property
+- [x] Adjust the Height of an Element Using the height Property
+- [x] Use the strong Tag to Make Text Bold
+- [x] Use the u Tag to Underline Text
+- [x] Use the em Tag to Italicize Text
+- [x] Use the s Tag to Strikethrough Text
+- [x] Create a Horizontal Line Using the hr Element
+- [x] Adjust the background-color Property of Text
+- [x] Adjust the Size of a Header Versus a Paragraph Tag
+- [x] Add a box-shadow to a Card-like Element
+- [x] Decrease the Opacity of an Element
+- [x] Use the text-transform Property to Make Text Uppercase
+- [x] Set the font-size for Multiple Heading Elements
+- [x] Set the font-weight for Multiple Heading Elements
+- [x] Set the font-size of Paragraph Text
+- [x] Set the line-height of Paragraphs
+- [x] Adjust the Hover State of an Anchor Tag
+- [x] Change an Element's Relative Position
+- [x] Move a Relatively Positioned Element with CSS Offsets
+- [x] Lock an Element to its Parent with Absolute Positioning
+- [x] Lock an Element to the Browser Window with Fixed Positioning
+- [x] Push Elements Left or Right with the float Property
+- [x] Change the Position of Overlapping Elements with the z-index Property
+- [x] Center an Element Horizontally Using the margin Property
+- [x] Learn about Complementary Colors
+- [x] Learn about Tertiary Colors
+- [x] Adjust the Color of Various Elements to Complementary Colors
+- [x] Adjust the Hue of a Color
 - [ ] Adjust the Tone of a Color
 - [ ] Create a Gradual CSS Linear Gradient
 - [ ] Use a CSS Linear Gradient to Create a Striped Element
