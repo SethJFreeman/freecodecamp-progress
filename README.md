@@ -131,15 +131,15 @@ A detailed list of my progress and knowledge proof in freecodecamp.
 - [x] Make Motion More Natural Using a Bezier Curve
 
 ## Applied Accessibility
-- [ ] Add a Text Alternative to Images for Visually Impaired Accessibility
-- [ ] Know When Alt Text Should be Left Blank
-- [ ] Use Headings to Show Hierarchical Relationships of Content
-- [ ] Jump Straight to the Content Using the main Element
-- [ ] Wrap Content in the article Element
-- [ ] Make Screen Reader Navigation Easier with the header Landmark
-- [ ] Make Screen Reader Navigation Easier with the nav Landmark
-- [ ] Make Screen Reader Navigation Easier with the footer Landmark
-- [ ] Improve Accessibility of Audio Content with the audio Element
+- [x] Add a Text Alternative to Images for Visually Impaired Accessibility
+- [x] Know When Alt Text Should be Left Blank
+- [x] Use Headings to Show Hierarchical Relationships of Content
+- [x] Jump Straight to the Content Using the main Element
+- [x] Wrap Content in the article Element
+- [x] Make Screen Reader Navigation Easier with the header Landmark
+- [x] Make Screen Reader Navigation Easier with the nav Landmark
+- [x] Make Screen Reader Navigation Easier with the footer Landmark
+- [x] Improve Accessibility of Audio Content with the audio Element
 - [ ] Improve Chart Accessibility with the figure Element
 - [ ] Improve Form Field Accessibility with the label Element
 - [ ] Wrap Radio Buttons in a fieldset Element for Better Accessibility
