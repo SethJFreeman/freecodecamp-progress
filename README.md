@@ -153,3 +153,9 @@ A detailed list of my progress and knowledge proof in freecodecamp.
 - [x] Make Links Navigatable with HTML Access Keys
 - [x] Use tabindex to Add Keyboard Focus to an Element
 - [x] Use tabindex to Specify the Order of Keyboard Focus for Several Elements
+
+## Responsive Web Design Principles
+- [ ] Create a Media Query
+- [ ] Make an Image Responsive
+- [ ] Use a Retina Image for Higher Resolution Displays
+- [ ] Make Typography Responsive
