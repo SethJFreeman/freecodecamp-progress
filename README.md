@@ -140,16 +140,16 @@ A detailed list of my progress and knowledge proof in freecodecamp.
 - [x] Make Screen Reader Navigation Easier with the nav Landmark
 - [x] Make Screen Reader Navigation Easier with the footer Landmark
 - [x] Improve Accessibility of Audio Content with the audio Element
-- [ ] Improve Chart Accessibility with the figure Element
-- [ ] Improve Form Field Accessibility with the label Element
-- [ ] Wrap Radio Buttons in a fieldset Element for Better Accessibility
-- [ ] Add an Accessible Date Picker
-- [ ] Standardize Times with the HTML5 datetime Attribute
-- [ ] Make Elements Only Visible to a Screen Reader by Using Custom CSS
-- [ ] Improve Readability with High Contrast Text
-- [ ] Avoid Colorblindness Issues by Using Sufficient Contrast
-- [ ] Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
-- [ ] Give Links Meaning by Using Descriptive Link Text
-- [ ] Make Links Navigatable with HTML Access Keys
-- [ ] Use tabindex to Add Keyboard Focus to an Element
-- [ ] Use tabindex to Specify the Order of Keyboard Focus for Several Elements
+- [x] Improve Chart Accessibility with the figure Element
+- [x] Improve Form Field Accessibility with the label Element
+- [x] Wrap Radio Buttons in a fieldset Element for Better Accessibility
+- [x] Add an Accessible Date Picker
+- [x] Standardize Times with the HTML5 datetime Attribute
+- [x] Make Elements Only Visible to a Screen Reader by Using Custom CSS
+- [x] Improve Readability with High Contrast Text
+- [x] Avoid Colorblindness Issues by Using Sufficient Contrast
+- [x] Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
+- [x] Give Links Meaning by Using Descriptive Link Text
+- [x] Make Links Navigatable with HTML Access Keys
+- [x] Use tabindex to Add Keyboard Focus to an Element
+- [x] Use tabindex to Specify the Order of Keyboard Focus for Several Elements
