@@ -155,7 +155,7 @@ A detailed list of my progress and knowledge proof in freecodecamp.
 - [x] Use tabindex to Specify the Order of Keyboard Focus for Several Elements
 
 ## Responsive Web Design Principles
-- [ ] Create a Media Query
-- [ ] Make an Image Responsive
-- [ ] Use a Retina Image for Higher Resolution Displays
-- [ ] Make Typography Responsive
+- [x] Create a Media Query
+- [x] Make an Image Responsive
+- [x] Use a Retina Image for Higher Resolution Displays
+- [x] Make Typography Responsive
