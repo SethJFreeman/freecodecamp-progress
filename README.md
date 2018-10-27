@@ -162,19 +162,19 @@ A detailed list of my progress and knowledge proof in freecodecamp.
 
 ## CSS Flexbox
 - [x] Use display: flex to Position Two Boxes
-- [ ] Add Flex Superpowers to the Tweet Embed
-- [ ] Use the flex-direction Property to Make a Row
-- [ ] Apply the flex-direction Property to Create Rows in the Tweet Embed
-- [ ] Use the flex-direction Property to Make a Column
-- [ ] Apply the flex-direction Property to Create a Column in the Tweet Embed
-- [ ] Align Elements Using the justify-content Property
-- [ ] Use the justify-content Property in the Tweet Embed
-- [ ] Align Elements Using the align-items Property
-- [ ] Use the align-items Property in the Tweet Embed
-- [ ] Use the flex-wrap Property to Wrap a Row or Column
-- [ ] Use the flex-shrink Property to Shrink Items
-- [ ] Use the flex-grow Property to Expand Items
-- [ ] Use the flex-basis Property to Set the Initial Size of an Item
-- [ ] Use the flex Shorthand Property
-- [ ] Use the order Property to Rearrange Items
-- [ ] Use the align-self Property
+- [x] Add Flex Superpowers to the Tweet Embed
+- [x] Use the flex-direction Property to Make a Row
+- [x] Apply the flex-direction Property to Create Rows in the Tweet Embed
+- [x] Use the flex-direction Property to Make a Column
+- [x] Apply the flex-direction Property to Create a Column in the Tweet Embed
+- [x] Align Elements Using the justify-content Property
+- [x] Use the justify-content Property in the Tweet Embed
+- [x] Align Elements Using the align-items Property
+- [x] Use the align-items Property in the Tweet Embed
+- [x] Use the flex-wrap Property to Wrap a Row or Column
+- [x] Use the flex-shrink Property to Shrink Items
+- [x] Use the flex-grow Property to Expand Items
+- [x] Use the flex-basis Property to Set the Initial Size of an Item
+- [x] Use the flex Shorthand Property
+- [x] Use the order Property to Rearrange Items
+- [x] Use the align-self Property
